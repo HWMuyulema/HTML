@@ -12,5 +12,7 @@ PDF
 
 [Para estudiar como usar el div y el spam en html](https://www.aprenderaprogramar.com/attachments/article/545/CU00726B%20Capas%20HTML%20etiquetas%20DIV%20SPAN%20ejemplos%20maquetar%20estructura%20paginas.pdf)
 
-[Página de estudio de HTML](https://desarrolloweb.com/articulos/753.php)
+MANUALES
+
+[Página de estudio de HTML](https://desarrolloweb.com/manuales/manual-html.html)
 
