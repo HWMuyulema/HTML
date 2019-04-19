@@ -20,3 +20,4 @@ HTML
 
 [Para construir maps con html jscrip](https://developers.google.com/maps/documentation/javascript/examples/layer-fusiontables-styling)
 
+[para subir puntos con imagens](https://developers.google.com/maps/documentation/javascript/examples/layer-georss)
