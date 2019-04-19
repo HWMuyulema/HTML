@@ -16,3 +16,7 @@ MANUALES
 
 [Página de estudio de HTML](https://desarrolloweb.com/manuales/manual-html.html)
 
+HTML 
+
+[Para construir maps con html jscrip](https://developers.google.com/maps/documentation/javascript/examples/layer-fusiontables-styling)
+
