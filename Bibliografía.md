@@ -30,3 +30,6 @@ HTML
 
 XML
 [PPT para entender html](http://di002.edv.uniovi.es/~juanrp/docencia/gis/Tutorial%20API%20Google%20maps.pdf)
+
+Ejemplos con software en la web
+[W3](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_link_image)
