@@ -39,6 +39,10 @@ Ejemplos con software en la web
 IMÁGENES
 [Manual corto](http://www.todoele.net/DukeWorkshopHtml/html1/imagenes.htm)
 
+VISORES
+
+[Para hacer visores](http://sitna.navarra.es/geoportal/recursos/Manual%20usuario%20Visor%20API%20SITNA.pdf)
+
 
 
 
