@@ -36,6 +36,9 @@ XML
 Ejemplos con software en la web
 [W3](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_link_image)
 
+IMÁGENES
+[Manual corto](http://www.todoele.net/DukeWorkshopHtml/html1/imagenes.htm)
+
 
 
 
