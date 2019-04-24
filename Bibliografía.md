@@ -43,6 +43,10 @@ VISORES
 
 [Para hacer visores](http://sitna.navarra.es/geoportal/recursos/Manual%20usuario%20Visor%20API%20SITNA.pdf)
 
+KML
+
+[MIMEXT](http://www.sigte.udg.edu/jornadassiglibre2010/uploads/Articles/a38.pdf)
+
 
 
 
