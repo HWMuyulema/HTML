@@ -48,5 +48,8 @@ KML
 [MIMEXT](http://www.sigte.udg.edu/jornadassiglibre2010/uploads/Articles/a38.pdf)
 
 
+[Poner los colores de las chinchetas en el código](http://tancro.e-central.tv/grandmaster/markers/google-icons/mapfiles-kml-pushpin.html)
+
+
 
 
