@@ -23,6 +23,8 @@ PDF
 MANUALES
 
 [Página de estudio de HTML](https://desarrolloweb.com/manuales/manual-html.html)
+
+
 [libros HTML](https://uniwebsidad.com/libros/xhtml/capitulo-2/sintaxis-de-las-etiquetas-xhtml)
 
 HTML 
