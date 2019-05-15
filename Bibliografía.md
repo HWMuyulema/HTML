@@ -14,6 +14,8 @@ VIDEOS
 
 [como hacar una contraseña con HTML,CSS,PHP](https://www.youtube.com/watch?v=arqv2YVp_3E)
 
+[Como hacer un formulario con HTML, PHP](https://www.youtube.com/watch?v=AZpKqEQS4e4)
+
 Este video nos muestra como pasar sobre un icono y que aparezca una imagen
 
 [Para hacer combinaciones de tablas con html y css](https://www.youtube.com/watch?v=3ILeSOinSYY )
