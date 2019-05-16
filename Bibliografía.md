@@ -22,6 +22,8 @@ Este video nos muestra como pasar sobre un icono y que aparezca una imagen
 
 [Qwe es una API](https://www.youtube.com/watch?v=u2Ms34GE14U)
 
+[Formulario con HTML y CSS](https://www.youtube.com/watch?v=AAhFZ8ugXvA)
+
 PDF 
 
 [Para estudiar como usar el div y el spam en html](https://www.aprenderaprogramar.com/attachments/article/545/CU00726B%20Capas%20HTML%20etiquetas%20DIV%20SPAN%20ejemplos%20maquetar%20estructura%20paginas.pdf)
@@ -40,12 +42,17 @@ HTML
 [para subir puntos con imagens](https://developers.google.com/maps/documentation/javascript/examples/layer-georss)
 
 XML
+
 [PPT para entender html](http://di002.edv.uniovi.es/~juanrp/docencia/gis/Tutorial%20API%20Google%20maps.pdf)
 
+
 Ejemplos con software en la web
+
+
 [W3](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_link_image)
 
 IMÁGENES
+
 [Manual corto](http://www.todoele.net/DukeWorkshopHtml/html1/imagenes.htm)
 
 VISORES
