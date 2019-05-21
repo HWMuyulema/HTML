@@ -68,6 +68,8 @@ KML
 
 [Poner los colores de las chinchetas en el código](http://tancro.e-central.tv/grandmaster/markers/google-icons/mapfiles-kml-pushpin.html)
 
+[ejemplos de kml](https://github.com/heremaps/examples)
+
 
 
 
