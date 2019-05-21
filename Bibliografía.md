@@ -71,5 +71,25 @@ KML
 [ejemplos de kml](https://github.com/heremaps/examples)
 
 
+[Lista de iconos de goolge hearth](https://sites.google.com/site/gmapsdevelopment/)
 
+
+[ejemplo basico para kml](http://terpconnect.umd.edu/~mhumber/files/lab_2/GEOG677_Lab2_Short.pdf)
+
+[papper kml](http://www.sodbtn.sk/bacik/stiahnutie/bacik_somap_2012.pdf)
+
+[buen tutorial para aprender](http://dh.obdurodon.org/kml/kml-tutorial.xhtml)
+
+
+[tiene varios programas](http://dh.obdurodon.org/)
+
+[excel a kml](http://dh.obdurodon.org/)
+
+[completo para kml](http://learningzone.rspsoc.org.uk/index.php/Learning-Materials/Introduction-to-OGC-Standards/)
+
+[tesis completa](https://pdfs.semanticscholar.org/a687/5cd555aa4bd1ac279646b0d4d32f9e554c5c.pdf)
+
+[temairio completo](https://serc.carleton.edu/NAGTWorkshops/visualize04/tool_examples/google_earth.html)
+
+[kml arcgis](https://knowledge.safe.com/articles/1028/getting-started-with-kml-kml-to-mapinfo-tab.html)
 
