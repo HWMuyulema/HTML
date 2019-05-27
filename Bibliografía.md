@@ -43,6 +43,8 @@ HTML
 
 [para subir puntos con imagens](https://developers.google.com/maps/documentation/javascript/examples/layer-georss)
 
+[Para entender Form](http://www.mclibre.org/consultar/htmlcss/html/html-formularios.html)
+
 XML
 
 [PPT para entender html](http://di002.edv.uniovi.es/~juanrp/docencia/gis/Tutorial%20API%20Google%20maps.pdf)
