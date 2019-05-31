@@ -37,6 +37,8 @@ MANUALES
 
 [libros HTML](https://uniwebsidad.com/libros/xhtml/capitulo-2/sintaxis-de-las-etiquetas-xhtml)
 
+[Manual acces](http://www.fenextraining.com/files/ACCESS%20EBOOKS/Access%202013%20parte%202.pdf)
+
 HTML 
 
 [Para construir maps con html jscrip](https://developers.google.com/maps/documentation/javascript/examples/layer-fusiontables-styling)
